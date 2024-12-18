@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Permutations
+comment1.params=p1\ p2
+comment1.target=int[]\ chain(int[],\ int[])
+comment2.params=perm
+comment2.target=int[]\ inverse(int[])
+comment3.params=perm
+comment3.target=int[]\ square(int[])
+comment4.params=perm\ k
+comment4.target=int[]\ power(int[],\ int)
+numComments=5

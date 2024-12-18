@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=QuadTreeTest
+comment1.params=
+comment1.target=void\ testExplicit()
+comment2.params=
+comment2.target=void\ massTestHundred()
+comment3.params=
+comment3.target=void\ massTestThousand()
+comment4.params=
+comment4.target=void\ massTestHundredThousand()
+comment5.params=
+comment5.target=void\ massTestMillion()
+comment6.params=n\ expected
+comment6.target=void\ massTest(int,\ long)
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PermutationsTestOne
+comment1.params=
+comment1.target=void\ testInverseHundred()
+comment2.params=
+comment2.target=void\ testInverseHundredThousand()
+comment3.params=
+comment3.target=void\ testSquareHundred()
+comment4.params=
+comment4.target=void\ testSquareHundredThousand()
+comment5.params=
+comment5.target=void\ testPowerHundred()
+comment6.params=
+comment6.target=void\ testPowerTwoThousand()
+comment7.params=
+comment7.target=void\ testPowerMillion()
+comment8.params=n\ expected\ mode
+comment8.target=void\ testInverse(int,\ long,\ int)
+numComments=9

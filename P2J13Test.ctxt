@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=P2J13Test
+comment1.params=
+comment1.target=void\ reverseSubstringsBetweenParenthesesExplicit()
+comment10.params=
+comment10.target=void\ testCountDistinctSubstringDontBeShlemiel()
+comment11.params=n\ expected
+comment11.target=void\ testCountDistinctSubstrings(int,\ long)
+comment2.params=
+comment2.target=void\ testReverseSubstringsBetweenParenthesesHundred()
+comment3.params=
+comment3.target=void\ testReverseSubstringsBetweenParenthesesTenThousand()
+comment4.params=
+comment4.target=void\ testReverseSubstringsBetweenParenthesesHundredThousand()
+comment5.params=n\ expected
+comment5.target=void\ testReverseSubstringsBetweenParentheses(int,\ long)
+comment6.params=
+comment6.target=void\ testCountDistinctSubstringsExplicit()
+comment7.params=
+comment7.target=void\ testCountDistinctSubstringsHundred()
+comment8.params=
+comment8.target=void\ testCountDistinctSubstringsThousand()
+comment9.params=
+comment9.target=void\ testCountDistinctSubstringsTenThousand()
+numComments=12

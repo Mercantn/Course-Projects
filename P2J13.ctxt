@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=P2J13
+comment1.params=text
+comment1.target=int\ countDistinctSubstrings(java.lang.String)
+comment2.params=text
+comment2.target=java.lang.String\ reverseSubstringsBetweenParentheses(java.lang.String)
+numComments=3

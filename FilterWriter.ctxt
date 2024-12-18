@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FilterWriter
+comment1.params=writer\ pred\ previous
+comment1.target=FilterWriter(java.io.Writer,\ java.util.function.BiPredicate,\ char)
+comment2.params=data\ off\ len
+comment2.target=void\ write(char[],\ int,\ int)
+comment3.params=
+comment3.target=void\ flush()
+comment4.params=
+comment4.target=void\ close()
+numComments=5

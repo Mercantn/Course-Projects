@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QuadTree
+comment1.params=
+comment1.target=boolean\ isOneColour()
+comment2.params=scale
+comment2.target=long\ computeArea(int)
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Manhattan
+comment1.params=s\ e\ h
+comment1.target=int\ totalArea(int[],\ int[],\ int[])
+numComments=2

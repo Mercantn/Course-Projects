@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Primes
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=k
+comment2.target=int\ kthPrime(int)
+comment3.params=n
+comment3.target=java.util.List\ factorize(int)
+comment4.params=limit
+comment4.target=void\ expandPrimes(int)
+numComments=5

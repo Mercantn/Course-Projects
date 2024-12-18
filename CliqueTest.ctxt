@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CliqueTest
+comment1.params=n\ edges\ rng
+comment1.target=boolean[][]\ createRandomAdjacencyMatrix(int,\ int,\ java.util.Random)
+comment2.params=
+comment2.target=void\ testFindFirstCliqueOneHundred()
+comment3.params=
+comment3.target=void\ testFindFirstCliqueFiveHundred()
+comment4.params=
+comment4.target=void\ testFindFirstCliqueOneThousand()
+comment5.params=trials\ expected
+comment5.target=void\ testClique(int,\ long)
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=P2J15Test
+comment1.params=
+comment1.target=void\ testFindClosestElementsExplicit()
+comment10.params=n\ expected
+comment10.target=void\ testCountSubarraysWithSum(int,\ long)
+comment2.params=
+comment2.target=void\ testFindClosestElementsHundred()
+comment3.params=
+comment3.target=void\ testFindClosestElementsTenThousand()
+comment4.params=
+comment4.target=void\ testFindClosestElementsHundredThousand()
+comment5.params=n\ expected
+comment5.target=void\ testFindClosestElements(int,\ long)
+comment6.params=
+comment6.target=void\ testCountSubarraysWithSumExplicit()
+comment7.params=
+comment7.target=void\ testCountSubarraysWithSumHundred()
+comment8.params=
+comment8.target=void\ testCountSubarraysWithSumTenThousand()
+comment9.params=
+comment9.target=void\ testCountSubarraysWithSumThirtyThousand()
+numComments=11

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Clique
+comment1.params=adjacencyMatrix
+comment1.target=int[]\ findFirstClique(boolean[][])
+comment2.params=adjacencyMatrix\ clique\ k
+comment2.target=boolean\ findFirstClique(boolean[][],\ int[],\ int)
+numComments=3

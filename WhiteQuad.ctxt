@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WhiteQuad
+comment1.params=
+comment1.target=WhiteQuad()
+comment2.params=
+comment2.target=WhiteQuad\ get()
+comment3.params=
+comment3.target=boolean\ isOneColour()
+comment4.params=scale
+comment4.target=long\ computeArea(int)
+numComments=5
